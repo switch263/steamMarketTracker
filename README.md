@@ -10,9 +10,3 @@ Import list from simple flat file structure such as:
 "Object 1" 0.99
 "Object 2" 4.99
 ```
-
-For example:
-```
-"Box from Hell" 2.99
-
-```
